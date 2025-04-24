@@ -41,7 +41,7 @@ Use John the Ripper to crack the hashes
 
 ### Step 2: Create a Password-Protected ZIP File
 
-  •	Right-click on raghul.txt → Create Archive.
+  •	Right-click on sachin.txt → Create Archive.
   
 
 ![Screenshot 2025-04-24 142747](https://github.com/user-attachments/assets/2b466064-54d5-492f-811b-d0fc075c19eb)
@@ -55,7 +55,7 @@ Use John the Ripper to crack the hashes
 
 
 
-  •	A file named raghul.txt.zip will appear.
+  •	A file named sachin.txt.zip will appear.
 
 ### Step 3: Open John the Ripper Terminal in Kali Linux
 
